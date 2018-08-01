@@ -1,3 +1,4 @@
+//Replace the spaces in a string with %20
 import java.util.*;
 public class questionThree {
 

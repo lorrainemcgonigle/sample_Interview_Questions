@@ -1,3 +1,4 @@
+//Check is a string is a pallindrome
 import java.util.*;
 
 class questionFour{
